@@ -17,7 +17,7 @@ class Finger:
             print('is_bended', self._is_bended)
             print('\n')
         else:
-            print('no finger here')
+            print('no finger here for now')
     def finger_must_die(self):
         self.is_existing = False
         self.bastards_they_killed_finger()
