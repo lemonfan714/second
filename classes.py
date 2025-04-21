@@ -12,7 +12,7 @@ class Finger:
         self._is_bended = False
     def print_info(self):
         if self.is_existing:
-            print('is_ill', self.is_ill)
+            print('is_Ill', self.is_ill)
             print('functionality', self.functionality)
             print('is_bended', self._is_bended)
             print('\n')
